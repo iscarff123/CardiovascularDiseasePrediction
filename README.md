@@ -3,4 +3,4 @@
 ### Class Project
 ### Masters of Science in Data Analytics, UTSA
 
-For this project, my classamates and I examined health data related to cardiovascular diseases. The goal of this project was to build a good model for predicting whether a patient has cardiovascular disease, with a high degree of accuracy. For more details, please see the [final report](https://github.com/iscarff123/CardiovascularDiseasePrediction/blob/main/Final%20Report.pdf).
+For this project, my classamates and I examined health data related to cardiovascular diseases. The goal of this project was to build a good model for predicting whether a patient has cardiovascular disease, with a high degree of accuracy. We tested a wide range of models including logistic regression, LDA, QDA, PLSDA, KNN, etc. For more details, please see the [final report](https://github.com/iscarff123/CardiovascularDiseasePrediction/blob/main/Final%20Report.pdf).
